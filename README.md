@@ -54,6 +54,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FF4500?style=flat&logo=Swift&logoColor=white" />
 
 <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
+
 ![](https://img.shields.io/badge/%20-AWS-red)
 ![](https://img.shields.io/badge/%20-GoormIDE-red)
 ![](https://img.shields.io/badge/%20-Colab-red)
