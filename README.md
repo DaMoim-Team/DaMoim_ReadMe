@@ -15,6 +15,7 @@
 ## 목차
 1. [**바른흡연 프로젝트란**](#1)
 1. [**기대 효과**](#2)
+1. [**기술 스택**](#2)
 <br />
 
 
@@ -37,4 +38,27 @@
 <br/>
 
 <br />
+
+<div id="2"></div>
+
+## 🛠 기술 스택
+
+![](https://img.shields.io/badge/%20OpenPose-%2300008B)
+![](https://img.shields.io/badge/%20YOLOv8-orange)
+![](https://img.shields.io/badge/%20YOLOv5-black)
+![](https://img.shields.io/badge/%20SORT-%234B0082)
+
+![](https://img.shields.io/badge/OpenCV-v4.7.0-black)
+![](https://img.shields.io/badge/Pytorch-v2.0.0+cu117-black)
+
+![](https://img.shields.io/badge/Python-v3.8.10-black)
+
+
+![](https://img.shields.io/badge/%20-RaspberryPi-red)
+![](https://img.shields.io/badge/%20-AWS-red)
+![](https://img.shields.io/badge/%20-GoormIDE-red)
+
+![](https://img.shields.io/badge/%20-Flask-red)
+![](https://img.shields.io/badge/%20-MySQL-red)
+
 
