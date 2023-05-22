@@ -2,9 +2,8 @@
   <h1>흡연자 검출 모델을 활용한
   
   "단속반 &amp; 미화원" 경로 추천 서비스</h1>
- </div>
- <p align="center">
-  <img src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png](https://drive.google.com/file/d/1H4wo11QHD15uKfu6K9aU-LzTbAQFtgoT/view?usp=share_link)" />
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1H4wo11QHD15uKfu6K9aU-LzTbAQFtgoT" />
 </p>
 
  <br />
