@@ -3,7 +3,7 @@
   
   "단속반 &amp; 미화원" 경로 추천 서비스</h1>
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1H4wo11QHD15uKfu6K9aU-LzTbAQFtgoT" width="150" />
+  <img src="https://drive.google.com/file/d/16fzpWRXdngLHTOTp9mBDVX3mT5Kr_-CQ/view?usp=sharing" width="150" />
 </p>  
 </div>
 
