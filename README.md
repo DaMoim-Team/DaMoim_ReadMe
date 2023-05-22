@@ -5,9 +5,6 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1H4wo11QHD15uKfu6K9aU-LzTbAQFtgoT" width="200" />
 </p>
-
- <br />
-
 <div align="center">
     <h2>🚬 바른흡연 🔎</h2>
  </div>
