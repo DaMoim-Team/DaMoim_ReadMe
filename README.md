@@ -18,6 +18,7 @@
 1. [**기대 효과**](#2)
 1. [**기술 스택**](#3)
 1. [**구조도**](#4)
+1. [**검출과정**](#5)
 <br />
 
 
@@ -70,4 +71,14 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=13giJuVKAcwSvyO-23fVSZrHYS2-3CxP2" width="1500" />
 </p>
+<br/>
+<br/>
+
+## 🔍 검출과정
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1fsoffSsMHZaOFV0UKjhRObR2Aa_Xgano" width="1500" />
+</p>
+<br/>
+<br/>
+
 
