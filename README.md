@@ -19,6 +19,7 @@
 1. [**기술 스택**](#tech-stack)
 1. [**구조도**](#structure)
 1. [**검출과정**](#detection-process)
+1. [**DeepLearning 데모영상**](#DeepLearning)
 <br />
 
 
@@ -82,5 +83,10 @@
 </p>
 <br/>
 <br/>
+
+<a name="DeepLearning"></a>
+
+## 🎥 데모영상(딥러닝)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXWR11UvKeg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
