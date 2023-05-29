@@ -3,7 +3,7 @@
   
   "단속반 &amp; 미화원" 경로 추천 서비스</h1>
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=16fzpWRXdngLHTOTp9mBDVX3mT5Kr_-CQ" width="150" />
+  <img src="https://user-images.githubusercontent.com/90829718/241697029-2119575e-890a-4ede-b4b6-3a507f9f256c.png" width="150" />
 </p>
 </div>
 
@@ -69,7 +69,7 @@
 
 ## ⚙ 구조도
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=13giJuVKAcwSvyO-23fVSZrHYS2-3CxP2" width="1500" />
+  <img src="https://user-images.githubusercontent.com/90829718/241696820-1fe716a9-c40a-482f-9f3d-1635bcfbd2df.jpg" width="1500" />
 </p>
 <br/>
 <br/>
@@ -78,7 +78,7 @@
 
 ## 🔍 검출과정
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1arWNMP0FtGVwTlQw6d7f-KsSblxXsZ2p" width="1000" />
+  <img src="https://user-images.githubusercontent.com/90829718/241695846-e4dff658-6a93-4c28-9eb6-b58db491328c.jpg" width="1500" />
 </p>
 <br/>
 <br/>
