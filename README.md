@@ -4,7 +4,7 @@
   "단속반 &amp; 미화원" 경로 추천 서비스</h1>
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=16fzpWRXdngLHTOTp9mBDVX3mT5Kr_-CQ" width="150" />
-</p> 
+</p>
 </div>
 
 <div align="center">
@@ -16,7 +16,8 @@
 ## 목차
 1. [**바른흡연 프로젝트란**](#1)
 1. [**기대 효과**](#2)
-1. [**기술 스택**](#2)
+1. [**기술 스택**](#3)
+1. [**구조도**](#4)
 <br />
 
 
@@ -43,7 +44,7 @@
 
 <br />
 
-<div id="2"></div>
+<div id="3"></div>
 
 ## 🛠 기술 스택
 
@@ -61,7 +62,11 @@
 <img src="https://img.shields.io/badge/Flask-98FB98?style=flat&logo=Flask&logoColor=black" /> <img src="https://img.shields.io/badge/NaverMapAPI-2E8B57?style=flat&logo=Naver&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 
 
+<div id="4"></div>
 
+## 🛠 구조도
 
-
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=13giJuVKAcwSvyO-23fVSZrHYS2-3CxP2" width="1500" />
+</p>
 
