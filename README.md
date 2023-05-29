@@ -49,6 +49,7 @@
 
 ![](https://img.shields.io/badge/%20OpenPose-%2300008B)
 <img src="https://img.shields.io/badge/YOLOv8-F79025?style=flat&logo=YOLO&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv5-000000?style=flat&logo=YOLO&logoColor=white" /> ![](https://img.shields.io/badge/%20SORT-%234B0082)
+
 <img src="https://img.shields.io/badge/OpenCV-v4.7.0-000000?style=flat&logo=OpenCv&logoColor=white" /> <img src="https://img.shields.io/badge/Pytorch-v2.0.0+cu117-000000?style=flat&logo=PyTorch&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FF4500?style=flat&logo=Swift&logoColor=white" />
