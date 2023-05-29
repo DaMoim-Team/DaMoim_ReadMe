@@ -87,6 +87,6 @@
 <a name="DeepLearning"></a>
 
 ## 🎥 데모영상(딥러닝)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXWR11UvKeg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Demo Video](https://img.youtube.com/vi/sXWR11UvKeg/maxresdefault.jpg)](https://youtu.be/sXWR11UvKeg)
 
 
