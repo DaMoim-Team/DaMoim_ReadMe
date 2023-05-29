@@ -62,12 +62,11 @@
 <img src="https://img.shields.io/badge/Flask-98FB98?style=flat&logo=Flask&logoColor=black" /> <img src="https://img.shields.io/badge/NaverMapAPI-2E8B57?style=flat&logo=Naver&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 
 
-
+<br/>
+<br/>
 <div id="4"></div>
 
-## 🛠 구조도
-
-
+## ⚙ 구조도
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=13giJuVKAcwSvyO-23fVSZrHYS2-3CxP2" width="1500" />
 </p>
