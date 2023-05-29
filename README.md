@@ -78,7 +78,7 @@
 
 ## 🔍 검출과정
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1fsoffSsMHZaOFV0UKjhRObR2Aa_Xgano" width="1500" />
+  <img src="https://drive.google.com/uc?export=view&id=1arWNMP0FtGVwTlQw6d7f-KsSblxXsZ2p" width="1500" />
 </p>
 <br/>
 <br/>
