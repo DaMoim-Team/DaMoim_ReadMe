@@ -19,7 +19,7 @@
 1. [**기술 스택**](#tech-stack)
 1. [**구조도**](#structure)
 1. [**검출과정**](#detection-process)
-1. [**DeepLearning 데모영상**](#DeepLearning)
+1. [**데모영상**](#DeepLearning)
 <br />
 
 
@@ -86,10 +86,8 @@
 
 <a name="DeepLearning"></a>
 
-## 🎥 데모영상(딥러닝)
-[![Demo Video](https://img.youtube.com/vi/sXWR11UvKeg/maxresdefault.jpg)](https://youtu.be/sXWR11UvKeg)
-
+## 🎥 데모영상
 | <div align="center"/>데모 영상(DeepLearning)| <div align="center">데모 영상(Client)|
 | :----------------------------------------- |:----------------------------- |
 |🔗[**데모 영상(DeepLearning) //후시녹음 + 길이조절**](https://drive.google.com/file/d/1A79oRBlCQMnTHgEM9tONC2gp72HaA1xk/view?usp=share_link)|🔗[**데모 영상(Client)**](클라이언트 데모 영상 링크)|
-|![딥러닝 데모영상](https://user-images.githubusercontent.com/90829718/241766271-78b0295e-8af2-4d6c-9e48-bf754b405b3e.jpg)|![클라이언트 데모영상](클라이언트 데모 영상 이미지 URL)|
+|<img src="https://user-images.githubusercontent.com/90829718/241766271-78b0295e-8af2-4d6c-9e48-bf754b405b3e.jpg" alt="딥러닝 데모영상" width="300"/>|<img src="클라이언트 데모 영상 이미지 URL" alt="클라이언트 데모영상" width="200"/>|
