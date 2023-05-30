@@ -52,10 +52,10 @@
 <a name="DeepLearning"></a>
 
 ## 🎥 데모영상
-| <div align="center"/>데모 영상(DeepLearning)| <div align="center">데모 영상(Client)|
+| <div align="center"/>데모 영상(DeepLearning)| <div align="center">데모 영상(UX)|
 | :----------------------------------------- |:----------------------------- |
-|🔗[**데모 영상(DeepLearning) //후시녹음 + 길이조절**](https://drive.google.com/file/d/1A79oRBlCQMnTHgEM9tONC2gp72HaA1xk/view?usp=share_link)|🔗[**데모 영상(Client)**](클라이언트 데모 영상 링크)|
-|<img src="https://user-images.githubusercontent.com/90829718/241766271-78b0295e-8af2-4d6c-9e48-bf754b405b3e.jpg" alt="딥러닝 데모영상" width="400"/>|<img src="클라이언트 데모 영상 이미지 URL" alt="클라이언트 데모영상" width="200"/>|
+|🔗[**데모 영상(DeepLearning)**](https://drive.google.com/file/d/1NBmrCbGCv-uRbUIqbFNxQw5h5DR22z7v/view?usp=sharing)|🔗[**데모 영상(UX)**](https://drive.google.com/file/d/1phko7jBVAgpvAYwbGcoiLxRUNEjyyV1l/view?usp=sharing)|
+|<img src="https://user-images.githubusercontent.com/90829718/241766271-78b0295e-8af2-4d6c-9e48-bf754b405b3e.jpg" alt="딥러닝 데모영상" width="400"/>|<img src="https://user-images.githubusercontent.com/90829718/242057747-c0b3efe3-dd9f-49dd-bc00-2e9c34995d1b.jpg" alt="클라이언트 데모영상" width="400"/>|
 
 <br/>
 <br/>
