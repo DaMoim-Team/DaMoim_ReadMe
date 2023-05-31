@@ -21,6 +21,7 @@
 1. [**기술 스택**](#tech-stack)
 1. [**구조도**](#structure)
 1. [**검출과정**](#detection-process)
+1. [**UX**](#UX)
 <br />
 
 <a name="barunsmoke"></a>
@@ -92,6 +93,15 @@
 ## 🔍 검출과정
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90829718/241695846-e4dff658-6a93-4c28-9eb6-b58db491328c.jpg" width="1500" />
+</p>
+<br/>
+<br/>
+
+<a name="UX"></a>
+
+## 📱 UX
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90829718/242339827-7cf4d29b-d285-4b62-a5ed-0a25e9ba159d.jpg" width="1500" />
 </p>
 <br/>
 <br/>
