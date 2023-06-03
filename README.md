@@ -106,7 +106,7 @@
 
 ## 📱 UX
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90829718/242339827-7cf4d29b-d285-4b62-a5ed-0a25e9ba159d.jpg" width="1500" />
+  <img src="https://user-images.githubusercontent.com/90829718/243065552-85ed9d55-4dd0-40ba-919b-64ba1e4d5fea.jpg" width="1500" />
 </p>
 <br/>
 <br/>
