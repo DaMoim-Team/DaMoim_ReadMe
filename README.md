@@ -97,7 +97,7 @@
 
 ## 🔍 검출과정
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90829718/241695846-e4dff658-6a93-4c28-9eb6-b58db491328c.jpg" width="1500" />
+  <img src="https://user-images.githubusercontent.com/90829718/243065647-8a328a73-4d98-4c3b-a57b-74da425e15c3.jpg" width="1500" />
 </p>
 <br/>
 <br/>
@@ -106,7 +106,9 @@
 
 ## 📱 UX
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90829718/243065647-8a328a73-4d98-4c3b-a57b-74da425e15c3.jpg" width="1500" />
+  <img src="https://user-images.githubusercontent.com/90829718/243067198-352d0ee6-1f09-4fa6-82ec-7bd5b88b953f.jpg" width="1500" />
 </p>
 <br/>
 <br/>
+  
+ 
