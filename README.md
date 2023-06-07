@@ -22,6 +22,7 @@
 1. [**구조도**](#structure)
 1. [**검출과정**](#detection-process)
 1. [**UX**](#UX)
+1. [**수상 기록**](#awards)
 <br />
 
 <a name="barunsmoke"></a>
@@ -111,4 +112,10 @@
 <br/>
 <br/>
   
+<a name="awards"></a>
+
+## 🏆 수상
+** 2023 한성대학교 컴퓨터공학부 캡스톤디자인 우수상 **
+<br/>
+
  
