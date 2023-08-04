@@ -57,7 +57,7 @@
 ## 📌 구성 요소
 | <div align="center"/>기능                      | <div align="center"/>내용                                                  |
 | :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------- |
-| <div align="center"/>🔗[**딥러닝 서버(detect_server)**](https://github.com/DaMoim-Team/DaMoim_detect_server)|- SORT & CROP<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 프레임 속 사람객체 id 부여 및 추적(tracking)<br/>&nbsp;&nbsp;&nbsp;&nbsp;- id별 bounding box기준 Crop<br/>- Custom Yolov8<br/>&nbsp;&nbsp;&nbsp;&nbsp;- AI hub, Kaggle에서 Dataset 확보<br/>&nbsp;&nbsp;&nbsp;&nbsp;- smoking_head(담배를 입에 무는 지점) Roboflow에서 Labeling<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 검출 빈도 알고리즘<br/>- OpenPose<br/>&nbsp;&nbsp;&nbsp;&nbsp;- pose estimation 팔 각도 계산<br/>&nbsp;&nbsp;&nbsp;&nbsp;- Frame-to-Frame 팔 각도 변화 알고리즘<br/>- 스케줄링<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 시간 단위 검출 랭킹 갱신<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 하루 단위 검출 랭킹 갱신|
+| <div align="center"/>🔗[**딥러닝 서버(detect_server)**](https://github.com/DaMoim-Team/DaMoim_detect_server)|- SORT & CROP<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 프레임 속 사람객체 id 부여<br/>&nbsp;&nbsp;&nbsp;&nbsp;- id별 bounding box기준 Crop<br/>- Custom Yolov8<br/>&nbsp;&nbsp;&nbsp;&nbsp;- AI hub, Kaggle에서 Dataset 확보<br/>&nbsp;&nbsp;&nbsp;&nbsp;- smoking_head(담배를 입에 무는 지점) Roboflow에서 Labeling<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 검출 빈도 알고리즘<br/>- OpenPose<br/>&nbsp;&nbsp;&nbsp;&nbsp;- pose estimation 팔 각도 계산<br/>&nbsp;&nbsp;&nbsp;&nbsp;- Frame-to-Frame 팔 각도 변화 알고리즘<br/>- 스케줄링<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 시간 단위 검출 랭킹 갱신<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 하루 단위 검출 랭킹 갱신|
 | <div align="center"/>🔗[**클라이언트(client)**](https://github.com/DaMoim-Team/DaMoim-client)|- Firebase 유저 직업 관리<br/>- 검출수 기준 히트맵 및 경로 추천<br/>- 검출수 초기화 및 시간별 검출통계|
 | <div align="center"/>🔗[**경로 서버(server)**](https://github.com/DaMoim-Team/DaMoim_server)|- Naver Direction API<br/>- 유저에게 경로 전송
 | <div align="center"/>🔗[**Raspberry PI**](https://github.com/DaMoim-Team/Damoim-raspberrypi)|- 구역별 영상 딥러닝 서버에 전송
@@ -80,7 +80,7 @@
 ## 🛠 기술 스택
 
 ![](https://img.shields.io/badge/%20OpenPose-%2300008B)
-<img src="https://img.shields.io/badge/YOLOv8-F79025?style=flat&logo=YOLO&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv5-000000?style=flat&logo=YOLO&logoColor=white" /> ![](https://img.shields.io/badge/%20SORT_Algorithm-%234B0082)
+<img src="https://img.shields.io/badge/YOLOv8-F79025?style=flat&logo=YOLO&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv5-000000?style=flat&logo=YOLO&logoColor=white" /> ![](https://img.shields.io/badge/%20SORT-%234B0082)
 
 <img src="https://img.shields.io/badge/OpenCV-v4.7.0-000000?style=flat&logo=OpenCv&logoColor=white" /> <img src="https://img.shields.io/badge/Pytorch-v2.0.0+cu117-000000?style=flat&logo=PyTorch&logoColor=white" />
 
