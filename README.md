@@ -16,7 +16,7 @@
 ## 목차
 1. [**바른흡연 프로젝트란**](#barunsmoke)
 1. [**기대 효과**](#effect)
-1. [**수상 기록**](#awards)
+1. [**성과**](#awards)
 1. [**구성 요소**](#Component)
 1. [**데모영상**](#DeepLearning)
 1. [**기술 스택**](#tech-stack)
